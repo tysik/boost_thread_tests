@@ -1,0 +1,1 @@
+/usr/bin/g++      CMakeFiles/threads_synchro.dir/threads_synchro.cpp.o  -o threads_synchro -rdynamic -lboost_system -lboost_thread -lboost_chrono -lboost_date_time -lboost_atomic -lpthread 

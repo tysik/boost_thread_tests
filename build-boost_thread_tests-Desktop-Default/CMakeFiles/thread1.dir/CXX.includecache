@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tysik/Projekty/boost_thread_tests/thread1.cpp
+boost/thread.hpp
+-
+boost/thread/scoped_thread.hpp
+-
+boost/chrono.hpp
+-
+iostream
+-
+

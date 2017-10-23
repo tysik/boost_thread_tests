@@ -1,0 +1,4 @@
+/home/tysik/Projekty/boost_thread_tests/build-boost_thread_tests-Desktop-Default/CMakeFiles/edit_cache.dir
+/home/tysik/Projekty/boost_thread_tests/build-boost_thread_tests-Desktop-Default/CMakeFiles/rebuild_cache.dir
+/home/tysik/Projekty/boost_thread_tests/build-boost_thread_tests-Desktop-Default/CMakeFiles/threads_synchro.dir
+/home/tysik/Projekty/boost_thread_tests/build-boost_thread_tests-Desktop-Default/CMakeFiles/threads_intro.dir
